@@ -1,0 +1,11 @@
+C:\Users\Krajnc\Documents\Visual Studio 2017\RIRIS10\RIRIS10\bin\Debug\netcoreapp2.0\RIRIS10.deps.json
+C:\Users\Krajnc\Documents\Visual Studio 2017\RIRIS10\RIRIS10\bin\Debug\netcoreapp2.0\RIRIS10.runtimeconfig.json
+C:\Users\Krajnc\Documents\Visual Studio 2017\RIRIS10\RIRIS10\bin\Debug\netcoreapp2.0\RIRIS10.runtimeconfig.dev.json
+C:\Users\Krajnc\Documents\Visual Studio 2017\RIRIS10\RIRIS10\bin\Debug\netcoreapp2.0\RIRIS10.dll
+C:\Users\Krajnc\Documents\Visual Studio 2017\RIRIS10\RIRIS10\bin\Debug\netcoreapp2.0\RIRIS10.pdb
+C:\Users\Krajnc\Documents\Visual Studio 2017\RIRIS10\RIRIS10\obj\Debug\netcoreapp2.0\RIRIS10.csprojResolveAssemblyReference.cache
+C:\Users\Krajnc\Documents\Visual Studio 2017\RIRIS10\RIRIS10\obj\Debug\netcoreapp2.0\RIRIS10.csproj.CoreCompileInputs.cache
+C:\Users\Krajnc\Documents\Visual Studio 2017\RIRIS10\RIRIS10\obj\Debug\netcoreapp2.0\RIRIS10.AssemblyInfoInputs.cache
+C:\Users\Krajnc\Documents\Visual Studio 2017\RIRIS10\RIRIS10\obj\Debug\netcoreapp2.0\RIRIS10.AssemblyInfo.cs
+C:\Users\Krajnc\Documents\Visual Studio 2017\RIRIS10\RIRIS10\obj\Debug\netcoreapp2.0\RIRIS10.dll
+C:\Users\Krajnc\Documents\Visual Studio 2017\RIRIS10\RIRIS10\obj\Debug\netcoreapp2.0\RIRIS10.pdb
